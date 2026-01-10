@@ -62,7 +62,7 @@ The database includes the following tables:
 👩‍💻 Author
 Jagruti Pardhe 
 B.E. in Computer Science  
-Aspiring Data Analyst | IT Support  
+Aspiring Data Analyst | Database Administration 
 
 
 ⭐ If you like this project, don’t forget to star the repository!
