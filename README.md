@@ -65,4 +65,4 @@ B.E. in Computer Science
 Aspiring Data Analyst | Database Administration 
 
 
-⭐ If you like this project, don’t forget to star the repository!
+⭐ If you like this project, don’t forget to star the repository ⭐
